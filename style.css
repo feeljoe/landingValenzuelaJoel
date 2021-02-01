@@ -1,0 +1,33 @@
+header{
+  text-align: right;
+  font-family: sans-serif;
+}
+body{
+  font-family: sans-serif;
+  background-color: lightblue;
+  padding: 10px;
+}
+.foto{
+  max-height: 150px;
+max-width: 200px;
+width: 120px;
+height: 140px;
+margin-left: auto;
+margin-right: auto;
+padding: 10px;
+}
+.Sobremi{
+
+  background-color: lightgray;
+  padding: 10px;
+  width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.Contacto{
+  background-color: aliceblue;
+  padding: 10px;
+  width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+}
